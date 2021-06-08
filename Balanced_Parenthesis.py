@@ -35,7 +35,7 @@ if len(stack) == 0:
     print('Every pair of bracket matches so-->')
     print('The given string satisfies balanced parenthesis')
 else:
-    print('Every pair of bracket does bot match so-->')
+    print('Every pair of bracket does not match so-->')
     print('The given string does not satisfy balanced parenthesis')
 
 #  RIFAT
